@@ -1,0 +1,47 @@
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\bin\Debug\Task_1.pdb
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.exe
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.pdb
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\bin\Debug\CodeFile1.cs
+C:\Users\rogac\source\repos\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form2.resources
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\CodeFile1.cs
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe.config
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.pdb
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form1.resources
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form2.resources
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.exe
+D:\Лабы 3 сем\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\CodeFile1.cs
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form2.resources
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лер 3\РПВС\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\bin\Debug\Task_1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Form2.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\obj\Debug\Task_1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 91\lab09\Lab_7_RPVS\Task_1\bin\Debug\Class1.cs
